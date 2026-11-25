@@ -2,7 +2,7 @@ I work on PyTorch at NVIDIA and like contributing to open source software in my 
 
 **PyTorch**: [Pull Requests][1] &middot; [Issues][2] &middot; [Reviews][3]
 
-**Compilers**: [Numba-CUDA](https://github.com/NVIDIA/numba-cuda/issues?q=author:lakshayg) &middot; [Numbast](https://github.com/NVIDIA/numbast/issues?q=author:lakshayg) &middot; [LLVM](https://github.com/llvm/llvm-project/issues?q=author:lakshayg)
+**Compilers**: [Numba-CUDA](https://github.com/NVIDIA/numba-cuda/issues?q=author:lakshayg) &middot; [Numbast](https://github.com/NVIDIA/numbast/issues?q=author:lakshayg) &middot; [LLVM](https://github.com/llvm/llvm-project/issues?q=author:lakshayg) &middot; [GCC](https://gcc.gnu.org/bugzilla/buglist.cgi?email2=lakshayg.xyz@gmail.com&emailreporter2=1&emailtype2=equals)
 
 **C++ Standardization (WG21)**: [P2034](https://wg21.link/p2034) &middot; [Open Items](https://github.com/lakshayg/wg21/issues)
 
